@@ -1,5 +1,5 @@
 {
-  "name": "HttpReqeustRecord.podspec",
+  "name": "HttpRequestRecord",
   "version": "1.0",
   "summary": "request record tool.",
   "description": "A easy request record tool used for http/https",
